@@ -1,0 +1,17 @@
+form{
+    background-color: #66ccff;
+    border-radius: 15px;
+}
+
+.SearchLabel{
+    margin-left: 20px;
+    margin-top: 10px
+}
+.searchBtn{
+    float: right;
+    margin-bottom: 10px;
+}
+.form-control{
+    margin-left: 20px;
+    width: 95%;
+}

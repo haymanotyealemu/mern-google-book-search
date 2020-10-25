@@ -1,0 +1,10 @@
+.footer {
+    background-color: rgba(60, 141, 155, 0.9);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    /* height: 50px; */
+    width: 100%;
+    position: absolute;
+    line-height: 50px;
+    margin-bottom: 0;
+}
